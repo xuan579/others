@@ -43,5 +43,5 @@ t = h5read('data.h5','/x');
 
 
 
-![](https://raw.githubusercontent.com/xuan579/others/main/freedom1.png)
+![](https://raw.githubusercontent.com/xuan579/others/main/freedom1.gif)
 
